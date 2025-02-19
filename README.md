@@ -1,4 +1,4 @@
-# FlowSE: Flow-Matching Model for Speech Enhancement
+# FlowSE: Efficient and High-Quality Speech Enhancement via Flow Matching
 
 **FlowSE** is the first flow-matching model for Speech Enhancement (SE), designed to address the key challenges faced by existing generative models in SE tasks. Traditional approaches like language model-based SE often degrade timbre and intelligibility due to **quantization loss**, while diffusion models suffer from **complex training** and **high inference latency**. FlowSE provides an efficient and innovative solution to these issues.
 
